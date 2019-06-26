@@ -1,0 +1,30 @@
+h1 {
+    color: pink;
+}
+
+h4 {
+    color: indigo;
+}
+
+p {
+    color: blue;
+}
+
+div {
+    float: left;
+    background: indianred;
+}
+
+header {
+    float: left;
+    background: red;
+}
+
+footer {
+    float: left;
+    background: yellow;
+}
+
+body {
+    color: aquamarine;
+}
